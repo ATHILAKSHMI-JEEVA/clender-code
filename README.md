@@ -9,7 +9,6 @@ This is a simple HTML calendar template that you can use for displaying a basic 
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -38,10 +37,5 @@ Feel free to adapt and expand upon this calendar for your specific project requi
 
 If you have improvements or additional features to suggest, please feel free to open an issue or submit a pull request. Contributions are welcome.
 
-## License
-
-This HTML calendar template is provided under the [MIT License](LICENSE). You are free to use and modify it for your projects, but please provide proper attribution.
-
----
 
 Happy coding!
